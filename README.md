@@ -1,2 +1,2 @@
-# CSIT-121--school-projects-
-this is my school project 
+# CSIT-121-
+This a my school project 
