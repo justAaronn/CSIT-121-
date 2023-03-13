@@ -1,0 +1,98 @@
+.container{
+       width:80%;
+       margin:0 auto;
+       text-align: center;
+}
+
+body {
+       background-color:sandybrown;
+       background-image:linear-gradient(sandybrown,white,slategray);
+}
+
+
+.center{
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width:50%;
+}
+
+
+p{
+       font-family: helvetica;
+       font-size: 15px;
+       line-height: 25px;
+       font-style: italic;
+       text-indent:100px;
+}
+
+h1 {
+       color:Black;
+       text-decoration: underline;
+       margin:15px;
+       font-family: cursive;
+       text-transform:capitalize;
+       background:url("images/sandbrown.jpg");
+       box-shadow: 11px 11px 11px black;
+      
+}
+
+h2 {
+       color:Black;
+       font-style:italic;                               
+       background-color: grey;
+       text-transform: uppercase;
+}
+
+h4{
+       color:floralwhite;
+       background: cadetblue;
+}
+
+li{
+       font-family: monospace;
+       background-color: darkorange;
+       color: brown;
+}
+
+h3 {
+       background-color: skyblue;
+       color: black;
+       font-family: sans-serif;
+}
+
+a:link {
+       color:red;
+       text-decoration: none;
+}
+a:visited {
+       color: brown;
+}
+
+a:hover{
+       color:green;
+       text-decoration: underline;
+}
+
+.side{
+       display: inline-block;
+       border: 10px solid black;
+       padding: 2rem 2rem;
+       vertical-align: middle;
+}
+
+.image{
+       display:inline-block;
+       border:10px solid black;
+       padding: 2rem 2rem;
+       vertical-align:middle;
+}
+
+
+
+
+
+
+
+
+
