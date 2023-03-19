@@ -1,0 +1,22 @@
+body{
+	background:url("https://lh3.googleusercontent.com/0Er_DG9cuq5jrXBw08QuDZtMomLtFWnL5y6fGMyPZCkMP9KgfQNn0rqmH_b08RT9-1AGCTKoK5D4tqnRqcxQ2PLuomf9Sn0CmF7OGSQ");
+}
+
+h2{
+	margin: 5;
+	text-align: center;
+	text-decoration: underline;
+  color: White;
+	text-decoration-color: White;
+	font-family: cursive;
+	font-weight: 500;
+	font-size: 30px;
+}
+
+h3{
+    color: white;
+}
+
+h1{
+  color:White;
+}
