@@ -1,0 +1,53 @@
+body{
+	background:url("https://lh3.googleusercontent.com/MaqieuZpRcA1ZkpOQR2RoLC-GfJ-9hl83xgzUJDR04fQTNffbirBz6PJUXMs4AxluEg5WAteyqO7YIHC2ptiJKgWndZc59fi-V-7PtF5");
+}
+
+header{
+	background-color: steelblue;
+	color:antiquewhite;
+	padding:45px;
+	box-shadow:10px 10px 10px antiquewhite;
+	border-raduis: 25px;
+}
+
+h1{
+	margin: 0;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: burlywood;
+	font-family: cursive;
+	font-weight: 800;
+	font-size: 50px;
+}
+
+#presentation{
+	background-color: steelblue;
+	border: 10px solid antiquewhite;
+	font-family: sans-serif;
+	padding:20px;
+	font-weight: 400;
+}
+
+#naviagtor{
+	font-weight: 800;
+	text-align: center;
+}
+img{
+	padding: 10px;
+	border: 120px solid antiquewhite;
+}
+
+h4{
+	font-size: 80px;
+	font-weight:700;
+}
+
+.center{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer{
+	text-align: center;
+}
