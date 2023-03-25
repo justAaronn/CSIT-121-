@@ -1,0 +1,18 @@
+.flexboxcontainer {
+  justify-content: center;
+  display: flex; 
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 341px;
+  height: 250px;
+  border: 5px solid grey;
+  margin: 10px;  
+}
+
+header, footer {
+  text-align: left;
+  background-color: #D3D3D3;
+}
