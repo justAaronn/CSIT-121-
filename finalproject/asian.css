@@ -1,0 +1,44 @@
+body{
+	background-color: #954535;
+}
+
+
+header{
+	background-color: beige;
+	text-align: center;
+	margin: auto;
+	padding: 20px;
+
+}
+
+
+footer{
+	text-align: center;
+	background-color: #D27D2D;
+	padding:20px;
+}
+
+
+#menu{
+	display: inline-block;
+	color: black;
+	background-color: #FFD091;
+	padding: 6px;
+	text-align: center;
+
+
+}
+
+h4{
+	text-indent: 1em;
+	text-align: right;
+}
+ h2{
+ 	text-align: right;
+ 	text-decoration: underline;
+ }
+
+ h3{
+ 	background-color: antiquewhite;
+ 	text-align: center;
+ }

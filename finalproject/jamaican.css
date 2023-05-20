@@ -1,0 +1,60 @@
+body{
+	background-color: #954535;
+	text-align: center;
+}
+
+
+header{
+	background-color: beige;
+	text-align: center;
+	margin: auto;
+	padding: 20px;
+
+}
+
+
+footer{
+	text-align: center;
+	background-color: #D27D2D;
+	padding:20px;
+}
+
+
+#menu{
+	display: inline-block;
+	color: black;
+	background-color: #FFD091;
+	padding: 6px;
+	text-align: center;
+
+
+}
+
+
+.table-stil{
+	justify-content: center;
+	display: flex;
+}
+
+
+table {
+         width: 70%;
+         margin: 10px;
+        
+
+
+      
+        }
+
+
+th {
+            background-color: #f2f2f2;
+        }
+
+
+th, td {
+            padding: 8px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+            border-block-color: lightgoldenrodyellow;
+        }
